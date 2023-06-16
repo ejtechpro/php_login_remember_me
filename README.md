@@ -4,10 +4,10 @@ A php & mysql loging form with a Remember Me feature.
 
 Login Credentials
 
-username - Jefferson 
+username - Jefferson, 
 password - user123
 
-username - weeddy
+username - weeddy,
 password - user123
 
 MYSQL DATABASE IS INCLUDED.
