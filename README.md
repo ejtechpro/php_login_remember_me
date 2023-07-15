@@ -1,5 +1,5 @@
 # php_login_remember_me
-<h1>Login form</h1>
+<h6>Login form</h6>
 A php & mysql loging form with a Remember Me feature.
 
 Login Credentials
